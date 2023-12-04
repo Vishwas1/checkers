@@ -13,8 +13,8 @@ import (
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	"github.com/cosmos/cosmos-sdk/types/module"
 
-	"github.com/alice/checkers"
-	"github.com/alice/checkers/keeper"
+	"github.com/vishwas1/checkers"
+	"github.com/vishwas1/checkers/keeper"
 )
 
 var (

@@ -3,7 +3,7 @@ package keeper
 import (
 	"context"
 
-	"github.com/alice/checkers"
+	"github.com/vishwas1/checkers"
 )
 
 // InitGenesis initializes the module state from a genesis state.

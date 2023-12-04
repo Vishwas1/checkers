@@ -1,4 +1,4 @@
-module github.com/alice/checkers
+module github.com/vishwas1/checkers
 
 go 1.21
 

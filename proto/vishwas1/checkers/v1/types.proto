@@ -1,7 +1,7 @@
 syntax = "proto3";
-package alice.checkers.v1;
+package vishwas1.checkers.v1;
 
-option go_package = "github.com/alice/checkers";
+option go_package = "github.com/vishwas1/checkers";
 
 import "cosmos_proto/cosmos.proto";
 import "gogoproto/gogo.proto";
